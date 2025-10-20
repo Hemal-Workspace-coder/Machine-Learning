@@ -41,14 +41,16 @@ Each notebook highlights **hands-on implementations** of ML concepts like **EDA*
 ---
 ## 🧩 Projects
 
-| 🔢 No. | 🧠 Project Name | 📝 Description |
-|:------:|-----------------|----------------|
-| 1 | **🏠 Predict House Prices** | Built a regression model using Scikit-learn to predict house prices based on key features such as area, rooms, and location. Demonstrates end-to-end ML workflow from preprocessing to evaluation. |
-| 2 | **👥 Customer Segmentation using PCA** | Applied Principal Component Analysis (PCA) and KMeans clustering to segment customers based on purchasing behavior. Includes visualization of clusters in 2D PCA space. |
-| 3 | **🌾 Crop Yield Prediction** | Utilized regression models and feature selection to forecast crop yield from environmental and soil parameters. Demonstrates data cleaning, correlation analysis, and hyperparameter tuning. |
-| 4 | **🚗 Vehicle Emission Prediction** | Implemented multiple ML algorithms to estimate CO₂ emissions using vehicle characteristics (engine size, cylinders, fuel type). Compared model accuracy and feature importance. |
-| 5 | **💬 Sentiment Analysis (NLP)** | Performed text preprocessing, TF-IDF vectorization, and logistic regression on Twitter dataset to classify sentiments as positive or negative. |
-| 6 | **🛰️ Model Deployment Intro** | Deployed a trained ML model using Streamlit for interactive predictions. Demonstrates basic front-end integration with Python backend. |
+| 🔢 | 📘 Project Name | 🧩 Description | 🔗 Link |
+|----|----------------|----------------|----------|
+| 1️⃣ | **Diabetes Prediction** | Logistic Regression-based binary classification predicting the likelihood of diabetes using patient data. | [Open Notebook](https://github.com/Hemal-Workspace-coder/Machine-Learning/blob/main/8_Projects/Diabetes_Prediction.ipynb) |
+| 2️⃣ | **Fake News Prediction** | Natural Language Processing (NLP) pipeline using TF-IDF and Logistic Regression for fake news detection. | [Open Notebook](https://github.com/Hemal-Workspace-coder/Machine-Learning/blob/main/8_Projects/Fake_News_Prediction.ipynb) |
+| 3️⃣ | **Heart Disease Classification (Decision Tree)** | Predicts heart disease presence using decision tree classification. | [Open Notebook](https://github.com/Hemal-Workspace-coder/Machine-Learning/blob/main/8_Projects/Heart_disease_classification_DecisionTree.ipynb) |
+| 4️⃣ | **Heart Disease Classification (Logistic Regression)** | Uses logistic regression to classify patients based on heart condition indicators. | [Open Notebook](https://github.com/Hemal-Workspace-coder/Machine-Learning/blob/main/8_Projects/Heart_disease_classification_LogisticRegression.ipynb) |
+| 5️⃣ | **House Price Prediction** | Regression model predicting house prices based on features like area, rooms, and location. | [Open Notebook](https://github.com/Hemal-Workspace-coder/Machine-Learning/blob/main/8_Projects/House_Price_Prediction.ipynb) |
+| 6️⃣ | **Rock vs Mine Prediction** | Sonar signal-based classification using Support Vector Machines to distinguish rocks from mines. | [Open Notebook](https://github.com/Hemal-Workspace-coder/Machine-Learning/blob/main/8_Projects/Rock_vs_Mine_prediction.ipynb) |
+| 7️⃣ | **Structural Deformation (Regression Analysis)** | Predicts plate deformation using regression. Compared Linear Regression, Polynomial Degree 2, and Degree 3 models. *(ML Assignment)* | [Open Notebook](https://github.com/Hemal-Workspace-coder/Machine-Learning/blob/main/8_Projects/Structureal_Deformation_polynomial_Regression.ipynb) |
+
 
 ---
 💬 Connect with Me
